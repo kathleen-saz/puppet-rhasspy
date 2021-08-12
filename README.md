@@ -14,7 +14,7 @@ A Puppet module to configure [Rhasspy](https://rhasspy.readthedocs.io/en/latest/
 ## Description
 
 This modules allows you to install and configure Rhasspy from within Puppet.
-It is largly based on the assumption that you'll be configuring it to interact with Home Assistant, though there's no reason that's a requirement.
+It is largely based on the assumption that you'll be configuring it to interact with Home Assistant, though there's no reason that's a requirement.
 
 ## Setup
 
